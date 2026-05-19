@@ -1,0 +1,6 @@
+browse:
+  start_cell: 2          # 首页从第几个 cell 开始点击
+  max_cells_per_page: 4  # 每页最多几个 cell
+  detail_view_count: 3   # 每个帖子点击 3D 的次数（demo 值）
+  run_minutes: 25        # 整体运行时长（分钟）
+  swipe_velocity: 5000   # 快速上滑速度

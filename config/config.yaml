@@ -1,0 +1,18 @@
+device:
+  platform_name: iOS
+  platform_version: "26.1"
+  device_name: "iPhone 15q"
+  udid: "00008120-001849EA0EB8201E"
+  automation_name: XCUITest
+  auto_accept_alerts: true
+  implicit_wait: 10
+
+app:
+  bundle_id: "com.vast.jujubit"
+
+server:
+  url: "http://localhost:4723"
+
+test:
+  screenshot_on_failure: true
+  screenshot_dir: "reports/screenshots"

@@ -1,0 +1,13 @@
+# Appium / Selenium
+Appium-Python-Client>=3.0.0
+selenium>=4.0.0
+
+# 配置
+PyYAML>=6.0
+
+# 测试
+pytest>=7.0.0
+
+# 代码质量（可选）
+black
+ruff
